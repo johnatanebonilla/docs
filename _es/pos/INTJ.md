@@ -27,4 +27,7 @@ Marked as adverbs:
 
 - _sí_, e.g. _Votaremos <b>sí</b>_ "We will vote <b>yes</b>."
 - _no_, e.g. _<b>No</b> es verdad_ "It is <b>not</b> true."
+
+In spoken Spanish, certain words retain their original category even when used as interjections. Examples include _<b>¡Madre mía!</b>_ (my mother), _<b>¡Mujer!</b>_ (woman), _<b>¡Hombre!</b>_ (man), _<b>¡Venga!</b>_ (come), and _<b>¡Verdad!</b>_ (truth). These words are primarily nouns, verbs or adjectives, but in conversational contexts, they can function as interjections to express emotions or reactions.
+
 <!-- Interlanguage links updated Po lis 14 15:34:32 CET 2022 -->
